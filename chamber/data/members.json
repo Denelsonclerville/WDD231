@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Tech Ayiti",
+    "address": "Rue Faubert, Pétion-Ville",
+    "phone": "(509) 3456-7890",
+    "website": "www.techayiti.ht",
+    "image": "img1.svg",
+    "membership": 3,
+    "otherInfo": "Expert IT solutions and software development."
+  },
+  {
+    "name": "Lakay Biznis",
+    "address": "Rue Panamericaine, Pétion-Ville",
+    "phone": "(509) 3333-2222",
+    "website": "www.lakaybiznis.ht",
+    "image": "img2.webp",
+    "membership": 2,
+    "otherInfo": "Local business consulting and networking."
+  },
+  {
+    "name": "MK Biznis",
+    "address": "Rue Metellus, Pétion-Ville",
+    "phone": "(509) 3788-9000",
+    "website": "www.mkbiznis.com",
+    "image": "img3.webp",
+    "membership": 3,
+    "otherInfo": "Professional marketing and digital presence."
+  },
+  {
+    "name": "Ayiti Food",
+    "address": "Place Boyer, Pétion-Ville",
+    "phone": "(509) 3677-1111",
+    "website": "www.ayitifood.ht",
+    "image": "img4.svg",
+    "membership": 1,
+    "otherInfo": "Distribution of high-quality local food products."
+  },
+  {
+    "name": "Bank Nasyonal",
+    "address": "Rue Geffrard, Pétion-Ville",
+    "phone": "(509) 3000-2222",
+    "website": "www.bn.ht",
+    "image": "img5.svg",
+    "membership": 2,
+    "otherInfo": "Secure financial services and business loans."
+  },
+  {
+    "name": "Bati Kay",
+    "address": "Rue Villate, Pétion-Ville",
+    "phone": "(509) 3333-4444",
+    "website": "www.batikay.ht",
+    "image": "img6.svg",
+    "membership": 3,
+    "otherInfo": "Modern construction and architectural design."
+  },
+  {
+    "name": "Resto Lounge",
+    "address": "Rue Grégoire, Pétion-Ville",
+    "phone": "(509) 3111-2222",
+    "website": "www.haitieconomie.ht",
+    "image": "img7.svg",
+    "membership": 3,
+    "otherInfo": "Premium dining and business event hosting."
+  },
+  {
+    "name": "Belmart",
+    "address": "Rue Moïse, Pétion-Ville",
+    "phone": "(509) 3222-3333",
+    "website": "www.pvmarket.ht",
+    "image": "img8.svg",
+    "membership": 2,
+    "otherInfo": "General retail and commercial goods."
+  },
+  {
+    "name": "Zansèt Galeri",
+    "address": "Rue Rigaud, Pétion-Ville",
+    "phone": "(509) 3444-5555",
+    "website": "www.zansetgaleri.com",
+    "image": "img9.webp",
+    "membership": 1,
+    "otherInfo": "Showcasing local art and cultural heritage."
+  }
+]
