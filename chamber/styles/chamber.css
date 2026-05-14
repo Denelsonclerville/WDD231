@@ -4,16 +4,6 @@ img {
     height: auto;
 }
 
-body {
-    margin: 0;
-    padding: 100px 0 0;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    color: #222;
-    background: linear-gradient(180deg, #f5f8fb 0%, #ffffff 60%);
-    text-align: center;
-    min-height: 100vh;
-}
 
 .hero {
     width: 100%;
@@ -223,7 +213,7 @@ header {
   gap: 10px;
 }
 
-.logo h2 {
+.logo h1 {
   font-size: 1.2rem;
   margin: 0;
 }
